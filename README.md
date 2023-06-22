@@ -7,7 +7,7 @@
 
 <h2 align="center"><b>I'm a Passionate 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and problem solver from India</b></h2>
 
-<h4 align="center"><b>Frontend Developer | HTML, CSS, JavaScript, version control sysytem | BCA Student</b></h4>
+<h4 align="center"><b>Frontend Developer | HTML, CSS, JavaScript, version control system | BCA Student</b></h4>
 
 ## 🙋‍♂️ About Me
 
@@ -36,7 +36,7 @@
 
 | Project List | Languages |
 | --- | --- |
-| [**🔗 Number guessing agme**](https://github.com/Mayanksaini1234/Number-guessing-game) |C|
+| [**🔗 Number guessing game**](https://github.com/Mayanksaini1234/Number-guessing-game) |C|
 
 
 ## 🚀 Languages:
