@@ -26,7 +26,7 @@
 - 🔗 Connect Me on  [**Hashnode**](https://hashnode.com/@mayanksaini980/ "hashnode profile").
 
 
-<## 🌐 Web Development Projects
+<!---## 🌐 Web Development Projects
 
 | Project List | Languages |
 | --- | --- |
@@ -38,7 +38,7 @@
 | --- | --- |
 | [**🔗 Number guessing game**](https://github.com/Mayanksaini1234/Number-guessing-game) |C|
 
->
+-->
 ## 🚀 Languages:
 
 <code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
@@ -55,7 +55,7 @@
 
 
 
-
+<!---
 ## ⚡ GitHub Stats & Languages
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayanksaini1234&show_icons=true&theme=react" alt="mayanksaini1234" /></p>
@@ -68,7 +68,7 @@
 ## ☄️ GitHub Streaks
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksaini1234&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats" alt="mayanksaini1234" /></p>
 
-
+-->
 
 ## 📈 GitHub Contribution Graph
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
