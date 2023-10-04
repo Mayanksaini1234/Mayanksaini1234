@@ -26,7 +26,7 @@
 - 🔗 Connect Me on  [**Hashnode**](https://hashnode.com/@mayanksaini980/ "hashnode profile").
 
 
-## 🌐 Web Development Projects
+<## 🌐 Web Development Projects
 
 | Project List | Languages |
 | --- | --- |
@@ -38,7 +38,7 @@
 | --- | --- |
 | [**🔗 Number guessing game**](https://github.com/Mayanksaini1234/Number-guessing-game) |C|
 
-
+>
 ## 🚀 Languages:
 
 <code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
