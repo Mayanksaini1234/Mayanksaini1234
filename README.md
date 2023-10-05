@@ -7,7 +7,7 @@
 
 <h2 align="center"><b>I'm a Passionate Full-stack 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and Problem solver </b></h2>
 
-<h4 align="center"><b>  Full-stack Developer | JavaScript | React-js |Version control system | HTML |CSS </b></h4>
+<h4 align="center"><b> Full-Stack Developer | Problem-solver |JavaScript |React-Js| Tailwind CSS | Version control system|Figma | HTML 5 | CSS |Hustler@19 </b></h4>
 
 ## 🙋‍♂️ About Me
 
