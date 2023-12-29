@@ -8,7 +8,7 @@
 <h2 align="center"><b>I'm a Passionate Frontend 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  </b></h2>
 
 <h4 align="center"><b> ||Aspiring-FULL STACK Developer||
-Frontend Developer > | JavaScript | React-Js | Tailwind CSS | Version control| Figma | HTML5 | CSS3 |HUSTLER @19
+Frontend Developer > | JavaScript | React-Js | Tailwind CSS | Version control| Figma | HTML5 | CSS3 | C/C++ |HHUSTLER @19
 
 ## 🙋‍♂️ About Me
 
