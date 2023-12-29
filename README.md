@@ -13,9 +13,8 @@ Frontend Developer > | JavaScript | React-Js | Tailwind CSS | Version control| F
 ## 🙋‍♂️ About Me
 
 
-- 🥋 I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
+- 🥋 I'm very Passionate For Programming . I'm always ready to learn new things .
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
-- 👁‍🗨 What's unique about me → Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
 - 🔭 I’m Currently Studing in **2nd Year**.
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
@@ -24,7 +23,7 @@ Frontend Developer > | JavaScript | React-Js | Tailwind CSS | Version control| F
 - 📫 How to reach me **mayanksaini9389@gmail.com**.
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/mayank-saini-b91906202/ "LinkedIn Profile").
 - 🔗 Connect Me on [**Twitter**](https://twitter.com/MayankS09985836?s=09/ "Twitter Profile").
-- 🔗 Connect Me on  [**Hashnode**](https://hashnode.com/@mayanksaini980/ "hashnode profile").
+
 
 
 <!---## 🌐 Web Development Projects
