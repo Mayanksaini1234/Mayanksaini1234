@@ -13,10 +13,9 @@ Frontend Developer | JavaScript | React-Js | Tailwind CSS | Version control| C/C
 ## 🙋‍♂️ About Me
 
 
-- 🥋 I'm very Passionate For Programming . I'm always ready to learn new things .
-- 👨‍💻 Love to learn new technologies and to explore new set of areas.
-- 🔭 I’m Currently Studing in **2nd Year**.
-- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
+- I'm always ready to learn new things .
+- 👨‍💻 Love to learn new technologies. 
+- 📘 I’m Currently learning **FULL 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Mayanksaini1234/ "GitHub Profile").
 <!-- - ⚡ For Fun **Games, Music, Entertainment**. -->
