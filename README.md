@@ -20,6 +20,7 @@ Frontend Developer | JavaScript | React-Js | Tailwind CSS | Version control| C/C
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Mayanksaini1234/ "GitHub Profile").
 <!-- - ⚡ For Fun **Games, Music, Entertainment**. -->
 - 📫 How to reach me **mayanksaini9389@gmail.com**.
+- https://linktr.ee/Mayank_saini1
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/mayank-saini-b91906202/ "LinkedIn Profile").
 - 🔗 Connect Me on [**Twitter**](https://twitter.com/MayankS09985836?s=09/ "Twitter Profile").
 
