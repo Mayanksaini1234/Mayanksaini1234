@@ -44,13 +44,6 @@ I have a strong problem-solving mindset and enjoy creating business-oriented sol
 
 
 
-## ⚙️ Things I work with:
-
-- **OS**: Windows 11.
-- **Laptop**: Hp probook  650g.
-- **Browser**: Google chrome.
-- **IDE**: VSCode - The best editor out there.
-
 
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
