@@ -1,14 +1,11 @@
-
+<div>
 ![GitHub Banner](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
 
 
- <h1 align="center">Hi  👋
- <b>,Mayank saini</b></h1>
+<h1 align="center">Hi 👋, I'm Mayank Saini</h1>
+<h3 align="center">Software Developer | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSQL | MondoDB | TailwindCSS</h3>
 
- <h2 align="center"><b>I'm a Passionate Software 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  </b></h2>
-
-<h4 align="center"><b>Software Developer | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSQL | MondoDB | TailwindCSS
-  ## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 - I'm always ready to learn new things .
 - 👨‍💻 Love to learn new technologies. 
 - 📘 I’m Currently learning **FULL 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
@@ -20,27 +17,12 @@
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/mayank-saini-b91906202/ "LinkedIn Profile").
 - 🔗 Connect Me on [**Twitter**](https://twitter.com/MayankS09985836?s=09/ "Twitter Profile").
 
-
-## 🚀 Languages:
-
-<code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
-<code><img height="27" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="CSS3"></code>
-<code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
-<code><img height="27" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" title="C"></code>
-<code><img height="27" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" title="C++"></code>
-<code><img height="27" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" title="Markdown"></code>
-
-## 🔮 Tools:
-
-<code><img height="27" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" title="GIT"></code>
-<code><img height="27" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" title="Linux"></code>
-
+<h3 align="left">🚀 Languages:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 ## ⚡ GitHub Stats & Languages
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayanksaini1234&show_icons=true&theme=react" alt="mayanksaini1234" /></p>
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayanksaini1234&show_icons=true&theme=react" alt="mayanksaini1234" /></p>
 
