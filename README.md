@@ -2,13 +2,13 @@
 ![GitHub Banner](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
 
 
-<h1 align="center">Hi  👋
-<b>,Mayank saini</b></h1>
+ <h1 align="center">Hi  👋
+ <b>,Mayank saini</b></h1>
 
-<h2 align="center"><b>I'm a Passionate Software 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  </b></h2>
+ <h2 align="center"><b>I'm a Passionate Software 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  </b></h2>
 
 <h4 align="center"><b>Software Developer | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSQL | MondoDB | TailwindCSS
-## 🙋‍♂️ About Me
+  ## 🙋‍♂️ About Me
 - I'm always ready to learn new things .
 - 👨‍💻 Love to learn new technologies. 
 - 📘 I’m Currently learning **FULL 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
