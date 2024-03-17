@@ -12,7 +12,7 @@ Hi there! 👋 My name is Mayank Saini, and I am a software developer who is cur
 - ExpressJS
 - PostgreSQL
 - MongoDB
-  -TailwindCSS 
+ -TailwindCSS 
 
 I have a strong problem-solving mindset and enjoy creating business-oriented solutions. Writing clean, maintainable code is my top priority, and I love collaborating with teams to bring ideas to life. Whether it's brainstorming new features or troubleshooting bugs, I'm always ready for a challenge. Additionally, I stay up-to-date with the latest tools and trends in the tech industry..
 - 📫 How to reach me : **mayanksaini9389@gmail.com**.
