@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Mayank Saini</h1><h3 align="center">Full Stack Developer | MERN Stack | Problem-Solver | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSQL | MondoDB | TailwindCSS |C/C++</h3>
+<h1 align="center">Hi 👋, I'm Mayank Saini</h1><h3 align="center">Full Stack Developer | Problem-Solver | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSQL | MondoDB | TailwindCSS |C/C++</h3>
 
 ## 🙋‍♂️ About Me
 Hi there! 👋 My name is Mayank Saini, and I am a software developer who is currently exploring the following technologies:
