@@ -1,18 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Mayank Saini</h1><h3 align="center">Full Stack Developer | Problem-Solver | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSQL | MondoDB | TailwindCSS |C/C++</h3>
+<h1 align="center">Hi 👋, I'm Mayank Saini</h1><h3 align="center">Full Stack Developer | Problem-Solver</h3>
 
 ## 🙋‍♂️ About Me
-Hi there! 👋 My name is Mayank Saini, and I am a software developer who is currently exploring the following technologies:
-- JavaScript
-- ReactJS
-- TailwindCSS
-- NodeJS
-- ExpressJS
-- PostgreSQL
-- MongoDB
+Hi there! 👋 My name is Mayank Saini, and I am a software developer,I have a strong problem-solving mindset and enjoy creating business-oriented solutions. Writing clean, maintainable code is my top priority, and I love collaborating with teams to bring ideas to life. Whether it's brainstorming new features or troubleshooting bugs, I'm always ready for a challenge. Additionally, I stay up-to-date with the latest tools and trends in the tech industry..
 
-I have a strong problem-solving mindset and enjoy creating business-oriented solutions. Writing clean, maintainable code is my top priority, and I love collaborating with teams to bring ideas to life. Whether it's brainstorming new features or troubleshooting bugs, I'm always ready for a challenge. Additionally, I stay up-to-date with the latest tools and trends in the tech industry..
 - 📫 How to reach me : **mayanksaini9389@gmail.com**.
 - [**LinkTree**](https://linktr.ee/Mayank_saini1)
   
