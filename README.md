@@ -3,10 +3,16 @@
 <h1 align="center">Hi 👋, I'm Mayank Saini</h1><h3 align="center">Full Stack Developer | Problem-Solver</h3>
 
 ## 🙋‍♂️ About Me
-Hi there! 👋 My name is Mayank Saini, and I am a software developer,I have a strong problem-solving mindset and enjoy creating business-oriented solutions. Writing clean, maintainable code is my top priority, and I love collaborating with teams to bring ideas to life. Whether it's brainstorming new features or troubleshooting bugs, I'm always ready for a challenge. Additionally, I stay up-to-date with the latest tools and trends in the tech industry..
+I’m a Full Stack Developer passionate about building high-performing, user-friendly web applications. I specialize in MERN stack development – a powerful combination of MongoDB, Express.js, React.js, and Node.js. This technology stack allows us to build:
 
-- 📫 How to reach me : **mayanksaini9389@gmail.com**.
-- [**LinkTree**](https://linktr.ee/Mayank_saini1)
+🎯 Fast and scalable web applications 🚀
+🎯 Fully responsive and interactive frontends 🎨
+🎯 Robust and secure backends 🔒
+
+I love tackling complex problems, optimizing performance, and bringing ideas to life through clean, scalable code, and enjoy creating business-oriented solutions.
+
+- How to reach me : **mayanksaini9389@gmail.com**.
+- Let's Connect :[**LinkTree**](https://linktr.ee/Mayank_saini1)
   
 ## 📧 Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-saini-b91906202 "@mayank")
