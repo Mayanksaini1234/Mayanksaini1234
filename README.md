@@ -5,9 +5,9 @@
 ## 🙋‍♂️ About Me
 I’m a Full Stack Developer passionate about building high-performing, user-friendly web applications. I specialize in MERN stack development – a powerful combination of MongoDB, Express.js, React.js, and Node.js. This technology stack allows us to build:
 
-🎯 Fast and scalable web applications 🚀
-🎯 Fully responsive and interactive frontends 🎨
-🎯 Robust and secure backends 🔒
+🎯 Fast and scalable web applications 🚀<br>
+🎯 Fully responsive and interactive frontends 🎨<br>
+🎯 Robust and secure backends 🔒<br>
 
 I love tackling complex problems, optimizing performance, and bringing ideas to life through clean, scalable code, and enjoy creating business-oriented solutions.
 
