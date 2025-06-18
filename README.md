@@ -3,13 +3,12 @@
 <h1 align="center">Hi 👋, I'm Mayank Saini</h1><h3 align="center">Full-Stack Developer | JavaScript | React.js | Node.js | Express.js | MongoDB</h3>
 
 ## 🙋‍♂️ About Me
-I’m a Full Stack Developer passionate about building high-performing, user-friendly web applications. I specialize in MERN stack development – a powerful combination of MongoDB, Express.js, React.js, and Node.js. This technology stack allows us to build:
+My journey into tech began in 8th grade, when I first discovered HTML on a basic HP laptop. Despite coming from a biology background in 12th grade, my curiosity for building things through code never faded.
 
-🎯 Fast and scalable web applications 🚀<br>
-🎯 Fully responsive and interactive frontends 🎨<br>
-🎯 Robust and secure backends 🔒<br>
+I’m now a Full Stack Developer, specializing in the MERN stack—MongoDB, Express.js, React.js, and Node.js. With this stack, I build fast, responsive frontends and strong, scalable backends.
 
-I love tackling complex problems, optimizing performance, and bringing ideas to life through clean, scalable code, and enjoy creating business-oriented solutions. <br>
+I enjoy turning ideas into working products, improving performance, and creating solutions that are practical and easy to use. I’m always open to learning, collaborating, and building things that make a real difference.
+
 I’m always excited to collaborate, learn, and build impactful projects. If you're looking for a passionate developer to bring your ideas to life or want to connect, feel free to reach out — let’s create something amazing together!
 
 - Portfolio : https://mayanksaini.vercel.app/
