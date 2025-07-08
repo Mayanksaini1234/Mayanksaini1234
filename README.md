@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Saini</h1>
-<h3 align="center">Full-Stack Developer | JavaScript | React.js | Node.js | Express.js | MongoDB</h3>
+<h3 align="center">Full-Stack Developer | React.js | Next.js | TypeScript | Node.js | Express.js | MongoDB</h3>
 
 ---
 
