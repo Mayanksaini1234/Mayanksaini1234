@@ -34,19 +34,3 @@ I'm passionate about clean code, performance optimization, and solving real-worl
   </a>
 </p>
 
----
-
-
----
-
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayanksaini1234&theme=tokyo-night&radius=16" height="200px" />
-  </a>
-</p>
-
----
-
-<p align="center">⭐ Show some love by starring some of my repositories!</p>
