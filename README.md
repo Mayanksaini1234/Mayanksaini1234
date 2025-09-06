@@ -36,23 +36,6 @@ I'm passionate about clean code, performance optimization, and solving real-worl
 
 ---
 
-## ⚡ GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayanksaini1234&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksaini1234&layout=compact&theme=react" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksaini1234&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550" alt="GitHub Streak" />
-</p>
 
 ---
 
